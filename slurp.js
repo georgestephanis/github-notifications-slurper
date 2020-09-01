@@ -16,7 +16,6 @@ octokit.activity
 				notifier.notify({
 					title: note.reason,
 					message: note.subject.title,
-					icon: "/Applications/GitHub Desktop.app"
 				});
 			}
 		} );
