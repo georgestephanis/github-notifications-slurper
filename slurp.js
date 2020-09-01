@@ -19,5 +19,5 @@ octokit.activity
 				});
 			}
 		} );
-		console.log( data );
+		// console.log( data );
 	});
